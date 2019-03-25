@@ -27,6 +27,7 @@
 
 % document setup
 \definecolor{urbnblue}{HTML}{1696D2}    % defines the Urban Institute blue color
+\definecolor{OMNIHeaderBlue}{rgb}{0.19, 0.25, 0.38}
 \usepackage{enumitem}                   % bullet alignment
 \setlist[2]{nosep}                      % sets the itemsep and parsep for all level two lists to 0
 \setenumerate{nosep}                    % sets no itemsep for enumerate lists only
@@ -35,6 +36,8 @@
 \usepackage[document]{ragged2e}         % ragged right
 \usepackage[none]{hyphenat}             % disable work breaks
 \renewcommand\thefootnote{\textcolor{urbnblue}{\arabic{footnote}}} % change the color of the footnote indicator
+%\usepackage[pagestyles]{titlesec}
+\usepackage{color}
 \hypersetup{
   colorlinks,
   linkcolor=urbnblue,
@@ -118,17 +121,24 @@
   \textbf{\LARGE{\\} \large{#1}}
 }
 
-% heading 1
+% OMNI heading 1
 \newcommand{\OMNIheadingone}[1]{
-  \bfseries{\Huge{#1}}
+  \colorbox{OMNIHeaderBlue}{ % blue heading color
+     \makebox[\linewidth][l]{ % create a box that is the length of the text line (This box will contain heading title)
+         \textcolor{white}{ % changes the text color to white
+             \bfseries{\Huge{#1}} % causes the text to be 25pt font and bold series
+         }
+     }
+  }
 }
+
 
 % heading 2
 \newcommand{\urbnheadingtwo}[1]{
   \textbf{\textcolor{urbnblue}{#1}}
 }
 
-% heading 2
+% OMNI heading 2
 \newcommand{\OMNIheadingtwo}[1]{
   \fontseries{eb}\selectfont{\LARGE{#1}}
 }
