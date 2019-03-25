@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.25)  25 MAR 2019 10:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.25)  25 MAR 2019 10:44
 entering extended mode
 **./simple-factsheet.tex
 (simple-factsheet.tex
@@ -1342,49 +1342,29 @@ ABD: EveryShipout initializing macros
 Package ragged2e Info: ABD: executing \RaggedRight on input line 90.
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 90.
-<design/urban_grid_blue_white.jpg, id=6, 2409.0pt x 1445.4pt>
-File: design/urban_grid_blue_white.jpg Graphic file (type jpg)
-<use design/urban_grid_blue_white.jpg>
-Package pdftex.def Info: design/urban_grid_blue_white.jpg  used on input line 9
-4.
-(pdftex.def)             Requested size: 108.40031pt x 65.04019pt.
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <10.95> not available
 
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 96
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 94
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 96.
-LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <17.28> not available
-
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 96
-.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 96.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 97.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 98.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 98.
-LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <12> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 10
-8.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 108.
+(Font)              scaled to size 10.95pt on input line 94.
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <24.88> not available
 
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 11
-0.
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 94
+.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 110.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 128.
-LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <9> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 13
+(Font)              scaled to size 24.88pt on input line 94.
+LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <6> not available
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 11
 2.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 132.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 135.
+(Font)              scaled to size 6.0pt on input line 112.
+LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <9> not available
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 11
+6.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 9.0pt on input line 116.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 119.
 
 
 ("C:\Users\mcoronadogarcia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lm
@@ -1396,21 +1376,21 @@ e\mt-cmr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 135.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 119.
 
 
 ("C:\Users\mcoronadogarcia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllm
 m.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 135
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 119
 .
 
 ("C:\Users\mcoronadogarcia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslm
 sy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 135
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 119
 .
 
 ("C:\Users\mcoronadogarcia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlm
@@ -1418,12 +1398,12 @@ ex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 135.
+(Font)              <10.95> on input line 119.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 135.
+(Font)              <8> on input line 119.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 135.
-LaTeX Font Info:    Try loading font information for U+msa on input line 135.
+(Font)              <6> on input line 119.
+LaTeX Font Info:    Try loading font information for U+msa on input line 119.
 
 ("C:\Users\mcoronadogarcia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts
 \umsa.fd"
@@ -1433,7 +1413,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 e\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 135.
+LaTeX Font Info:    Try loading font information for U+msb on input line 119.
 
 ("C:\Users\mcoronadogarcia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts
 \umsb.fd"
@@ -1444,22 +1424,18 @@ e\mt-msb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 135.
+(Font)              scaled to size 8.0pt on input line 119.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 135.
+(Font)              scaled to size 9.0pt on input line 119.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 135.
+(Font)              <9> on input line 119.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 135.
+(Font)              <5> on input line 119.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 119.
 [1
 
-{C:/Users/mcoronadogarcia/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <.
-/design/urban_grid_blue_white.jpg>]pdfTeX warning (ext4): destination with the 
-same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.151 \newpage
-              {} [2]
+{C:/Users/mcoronadogarcia/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -1492,42 +1468,48 @@ l.151 \newpage
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 167.
+LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <10> not available
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 15
+1.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 151.
 LaTeX Font Info:    Try loading font information for TS1+lato-TLF on input line
- 167.
+ 151.
 
 ("C:\Users\mcoronadogarcia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lato\ts1
 lato-tlf.fd"
 File: TS1lato-TLF.fd 2017/10/22 Font definitions for TS1/lato-TLF.
 )
-LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 167.
+LaTeX Font Info:    Font shape `TS1/lato-TLF/bx/n' in size <10> not available
+(Font)              Font shape `TS1/lato-TLF/b/n' tried instead on input line 1
+51.
+LaTeX Font Info:    Font shape `TS1/lato-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 151.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.170 \end{document}
-                     [3
+l.154 \end{document}
+                     [2
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 170.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 170.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 154.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 154.
 (simple-factsheet.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 170.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 170.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 154.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 154.
 Package rerunfilecheck Info: File `simple-factsheet.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 170.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 154.
  ) 
 Here is how much of TeX's memory you used:
- 25621 strings out of 492945
- 458939 string characters out of 3121812
- 533620 words of memory out of 3000000
- 28995 multiletter control sequences out of 15000+200000
- 316164 words of font info for 74 fonts, out of 3000000 for 9000
+ 25602 strings out of 492945
+ 458425 string characters out of 3121812
+ 532594 words of memory out of 3000000
+ 28982 multiletter control sequences out of 15000+200000
+ 225551 words of font info for 65 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,48p,981b,685s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,7n,48p,981b,691s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -1538,14 +1520,13 @@ pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 o/a_2crngg.enc}{C:/Users/mcoronadogarcia/AppData/Local/Programs/MiKTeX 2.9/font
 s/enc/dvips/lato/a_w6akef.enc}<C:/Users/mcoronadogarcia/AppData/Local/Programs/
 MiKTeX 2.9/fonts/type1/public/lato/Lato-Bold.pfb><C:/Users/mcoronadogarcia/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/lato/Lato-Italic.pfb><C:/Users
-/mcoronadogarcia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lato/Lato
--Regular.pfb><C:/Users/mcoronadogarcia/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/symbols/msam10.pfb><C:/Users/mcoronadogarcia/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on simple-factsheet.pdf (3 pages, 497499 bytes).
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/lato/Lato-Regular.pfb><C:/User
+s/mcoronadogarcia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/symbols/msam10.pfb><C:/Users/mcoronadogarcia/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on simple-factsheet.pdf (2 pages, 89024 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 47 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
- 4114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4109 words of extra memory for PDF output out of 10000 (max. 10000000)
 
