@@ -9,6 +9,8 @@ geometry: "left=1in,right=1in,top=0.35in,bottom=0.6in"
 urlcolor: #169d62
 ---
 
+
+
 \raggedright
 
 ```{r rmarkdown-setup, include=FALSE}
@@ -22,6 +24,8 @@ options(knitr.kable.NA = "")
 \OMNIheadingone{Heading 1}
 
 \OMNIheadingtwo{Heading 2}
+
+\fontseries{l}\selectfont
 
 Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
